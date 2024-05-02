@@ -2,12 +2,12 @@
 
 pragma solidity 0.8.19;
 
-import './libraries/Directives.sol';
-import './libraries/Encoding.sol';
-import './libraries/TokenFlow.sol';
-import './libraries/PriceGrid.sol';
-import './mixins/MarketSequencer.sol';
-import './mixins/SettleLayer.sol';
+import '../libraries/Directives.sol';
+import '../libraries/Encoding.sol';
+import '../libraries/TokenFlow.sol';
+import '../libraries/PriceGrid.sol';
+import '../mixins/MarketSequencer.sol';
+import '../mixins/SettleLayer.sol';
 import './mixins/PoolRegistry.sol';
 import './mixins/MarketSequencer.sol';
 import './interfaces/ICrocMinion.sol';
