@@ -3,7 +3,8 @@
 
 # TempestVault
 
-Welcome to TempestVault, a DeFi liquidity management platform designed to optimize and enhance liquidity provisioning through the integration with CrocSwap's advanced trading functionalities.
+Project Overview
+TempestVault, initially derived from "alpha-vaults-v2-contracts" at Charm Finance, is designed to replace Uniswap functionalities with those of Ambient (CrockSwap). This integration aims to leverage Ambient's advanced trading functionalities to enhance liquidity management and improve overall efficiency.
 
 ## Features
 
